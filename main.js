@@ -14,7 +14,7 @@ btns.forEach((b) => {
     }
     else if (key == "btn2") {
       out = 0
-      num.style.color = "white"
+      num.style.color = "black"
     }
     else if (key == "btn3") {
       out++
