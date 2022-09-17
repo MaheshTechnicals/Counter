@@ -33,3 +33,13 @@ button {
   text-align: center;
   font-weight: bold;
 }
+
+.btn1{
+  background: red;
+  color: white;
+} 
+
+.btn3{
+  background: green;
+  color: white;
+} 
