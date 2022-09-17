@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 300px;
+  background: black;
+  flex-direction: column;
+}
+
+h3 {
+  color: white;
+  font-size: 70px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  margin-right: 3px;
+  background: transparent;
+  color: white;
+  border: 1px solid white;
+  text-align: center;
+  font-weight: bold;
+}
