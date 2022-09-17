@@ -3,6 +3,8 @@ body {
   justify-content: center;
   align-items: center;
   margin: 10px;
+  font-family: 'Roboto Serif', serif;
+  height: 100vh
 
 }
 
